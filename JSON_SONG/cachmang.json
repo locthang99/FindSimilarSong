@@ -1,0 +1,4663 @@
+{
+  "index": 2,
+  "pageSize": 100,
+  "totalItem": 1291,
+  "code": 200,
+  "msg": "Get OK",
+  "data": [
+    {
+      "id": 10201,
+      "name": "Quảng Bình Quê Ta Ơi",
+      "description": "Clone from ZWZAOA7A",
+      "dateCreate": "2020-11-04T11:29:28.524597",
+      "totalListen": 16972,
+      "totalLike": 38720,
+      "totalCmt": 8658,
+      "totalDownload": 7088,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2014/3/f/3fb3acb9dc6f2716fb12fc3f88f23431_1073801722.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/4/240a4c78e1a7f871bc0a5357bfa46ddc_1290700812.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZAOA7A/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 387,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10202,
+      "name": "Cô Gái Mở Đường",
+      "description": "Clone from ZWZCW6BZ",
+      "dateCreate": "2017-09-12T18:24:34.818669",
+      "totalListen": 33862,
+      "totalLike": 47617,
+      "totalCmt": 13077,
+      "totalDownload": 5322,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/5/9/59534d3c68936da397c63b4296e731d3_1073927733.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1306735483.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCW6BZ/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 212,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1100,
+          "nameSinger": " Cẩm Ly",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/5/3/e/a53e95551cdc52a921e3872b2c68cc30.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10203,
+      "name": "Tiếng Đàn Ta Lư",
+      "description": "Clone from ZW6ZF8BC",
+      "dateCreate": "2020-10-10T21:08:25.350373",
+      "totalListen": 68681,
+      "totalLike": 56830,
+      "totalCmt": 12586,
+      "totalDownload": 8840,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/8/6/e/6/86e6b6526e70e4419118e3319c47a727.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/1/7121883aadcdad2230a7609785a10f3b_1366107607.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6ZF8BC/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 204,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1101,
+          "nameSinger": " Trang Nhung",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/b/db03da3a9b7d3be8aac5db73d326eb3a_1513220604.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10204,
+      "name": "Cô Gái Mở Đường",
+      "description": "Clone from ZW78O0CB",
+      "dateCreate": "2019-10-02T03:07:24.052265",
+      "totalListen": 82441,
+      "totalLike": 32066,
+      "totalCmt": 5805,
+      "totalDownload": 7598,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/c/3/1/c/c31c455f0319af627557457041a447e8.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/9/e9f46f968c158fdbda86a394b1cf9903_1292829815.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW78O0CB/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 350,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1102,
+          "nameSinger": " Tốp Nữ Quân Khu Bảy",
+          "thumbnail": "https://photo-zmp3.zadn.vn/artist_default_2.png"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10205,
+      "name": "Sợi Nhớ Sợi Thương",
+      "description": "Clone from ZWZB9896",
+      "dateCreate": "2016-05-28T21:45:54.260401",
+      "totalListen": 102012,
+      "totalLike": 30573,
+      "totalCmt": 5390,
+      "totalDownload": 4187,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/3/2/32075b01057a6d9ef746f26be6710a11_1073891350.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/6/8/68d5535b971d558f594f10a5affd0a71_1303456079.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZB9896/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 223,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10206,
+      "name": "Cô Gái Vót Chông",
+      "description": "Clone from ZWZCDEOA",
+      "dateCreate": "2018-02-01T00:51:54.881861",
+      "totalListen": 62923,
+      "totalLike": 40001,
+      "totalCmt": 12316,
+      "totalDownload": 1083,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/0/f/0fddd6a73e878e1cf2fba9fe27bc5109_1073974714.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1311689816.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDEOA/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 188,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1098,
+          "nameSinger": " Anh Thơ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7eb0aa57ce0dc4df70cdff80b98c4474_1514280681.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10207,
+      "name": "Gần Lắm Trường Sa",
+      "description": "Clone from ZWZE6UBW",
+      "dateCreate": "2017-06-04T17:35:12.626051",
+      "totalListen": 57860,
+      "totalLike": 44194,
+      "totalCmt": 12730,
+      "totalDownload": 5560,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/01/05/38c2b528e8138f06a4fb7dcb23329f57_1074074674.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/8/e863a57370772108d8d8cbdf522963d4_1322460746.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZE6UBW/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 307,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1103,
+          "nameSinger": " Thanh Thúy",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/c/6cc8bf6c15b0735c8827adde23e6dd5a_1514609072.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10208,
+      "name": "Gửi Em Ở Cuối Sông Hồng",
+      "description": "Clone from ZWZA8C79",
+      "dateCreate": "2016-12-06T16:32:53.690746",
+      "totalListen": 87031,
+      "totalLike": 45669,
+      "totalCmt": 8041,
+      "totalDownload": 4243,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/c/9/3/4/c9347312d01d5fbd6add051416ea9a45.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7f9fe2470133a654b08305cab4cae486_1292913563.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZA8C79/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 262,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1098,
+          "nameSinger": " Anh Thơ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7eb0aa57ce0dc4df70cdff80b98c4474_1514280681.jpg"
+        },
+        {
+          "singerId": 1104,
+          "nameSinger": " Việt Hoàn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/8/78c9e0acd78b9b0e78278ac6a583dec2_1514865475.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10209,
+      "name": "Cô Gái Sài Gòn Đi Tải Đạn",
+      "description": "Clone from ZW6ZF8BW",
+      "dateCreate": "2018-07-12T23:21:18.347412",
+      "totalListen": 42952,
+      "totalLike": 38329,
+      "totalCmt": 14424,
+      "totalDownload": 4272,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2014/1/5/155cd8f1a272c74474a68dbac9451808_1074571314.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/1/7121883aadcdad2230a7609785a10f3b_1366107607.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6ZF8BW/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 228,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1101,
+          "nameSinger": " Trang Nhung",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/b/db03da3a9b7d3be8aac5db73d326eb3a_1513220604.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10210,
+      "name": "Đêm Nghe Hát Đò Đưa Nhớ Bác",
+      "description": "Clone from ZWZ998OA",
+      "dateCreate": "2016-08-02T19:28:33.707982",
+      "totalListen": 57914,
+      "totalLike": 48416,
+      "totalCmt": 5594,
+      "totalDownload": 5637,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/8/d/2/d/8d2dedfd09cd9ebbea737784323569a1.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/8/3/83612f1968d70477e38911f83e1894cd_1286965903.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZ998OA/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 383,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1105,
+          "nameSinger": " Phạm Phương Thảo",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/8/68c206e450ca0083aed4952ee29f8f12_1511941315.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10211,
+      "name": "Bác Đang Cùng Chúng Cháu Hành Quân",
+      "description": "Clone from ZW6OW6I9",
+      "dateCreate": "2015-02-03T02:10:41.087912",
+      "totalListen": 67437,
+      "totalLike": 52957,
+      "totalCmt": 10819,
+      "totalDownload": 4266,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2014/4/b/4b1bb8cb35112d420298c6b1d8753ed4_1074386329.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/1/9/1907407c455e2494fda6b045fc925910_1351683722.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6OW6I9/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 242,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [],
+      "composers": []
+    },
+    {
+      "id": 10212,
+      "name": "Trường Sơn Đông Trường Sơn Tây",
+      "description": "Clone from ZW70EZAI",
+      "dateCreate": "2018-02-09T02:53:41.384004",
+      "totalListen": 25388,
+      "totalLike": 46460,
+      "totalCmt": 13207,
+      "totalDownload": 9495,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/2/b/2b18007595c16fe70955936b063a4f59_1075287329.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/0/70d9df6c57477d6bd88d93cec7c8a03d_1430293191.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW70EZAI/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 359,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1106,
+          "nameSinger": " Đông Quân",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/0/d0985348a0f0c367718040da09a72072_1511151328.jpg"
+        },
+        {
+          "singerId": 1107,
+          "nameSinger": " Thanh Ngọc",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/e/ae8bf0d62af853b105e6e1c87ba9a2ae_1422523987.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10213,
+      "name": "Nổi Lửa Lên Em",
+      "description": "Clone from ZWZA8C7W",
+      "dateCreate": "2016-08-20T10:11:30.367762",
+      "totalListen": 21777,
+      "totalLike": 56625,
+      "totalCmt": 5884,
+      "totalDownload": 9973,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/9/2/927c931a06247d287834ef00621fbb41_1073822706.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7f9fe2470133a654b08305cab4cae486_1292913563.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZA8C7W/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 275,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1098,
+          "nameSinger": " Anh Thơ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7eb0aa57ce0dc4df70cdff80b98c4474_1514280681.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10214,
+      "name": "Ở Hai Đầu Nỗi Nhớ",
+      "description": "Clone from ZWZE6UAA",
+      "dateCreate": "2016-12-09T08:50:19.295013",
+      "totalListen": 80309,
+      "totalLike": 36870,
+      "totalCmt": 7874,
+      "totalDownload": 8863,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/f/4/f48f578705d8fa6d97f8154bd64208d3_1074074666.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/8/e863a57370772108d8d8cbdf522963d4_1322460746.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZE6UAA/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 278,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1103,
+          "nameSinger": " Thanh Thúy",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/c/6cc8bf6c15b0735c8827adde23e6dd5a_1514609072.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10215,
+      "name": "Tàu Anh Qua Núi (Remix)",
+      "description": "Clone from ZW7FOIC7",
+      "dateCreate": "2020-09-01T16:36:58.062451",
+      "totalListen": 42484,
+      "totalLike": 51382,
+      "totalCmt": 11764,
+      "totalDownload": 7355,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/06/22/1432895f850e68797b0b4764eb9b919b_1076224327.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_png/covers/9/a/9af206c17a2c192d1fe2903187a3d158_1493028571.png",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW7FOIC7/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 248,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1108,
+          "nameSinger": " Lương Gia Huy",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_png/avatars/f/6/f68fb832808c6ddaca296dd40a86ef64_1498547009.png"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10216,
+      "name": "Chào Em Cô Gái Lam Hồng",
+      "description": "Clone from ZWZA8C7O",
+      "dateCreate": "2015-08-15T14:45:22.79908",
+      "totalListen": 91190,
+      "totalLike": 45992,
+      "totalCmt": 11051,
+      "totalDownload": 5671,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/2/9/29cfc4cf59ae0b6f23c249fc46025885_1073822707.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7f9fe2470133a654b08305cab4cae486_1292913563.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZA8C7O/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 234,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1104,
+          "nameSinger": " Việt Hoàn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/8/78c9e0acd78b9b0e78278ac6a583dec2_1514865475.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10217,
+      "name": "Đất Nước Tình Yêu",
+      "description": "Clone from ZWZCA9CC",
+      "dateCreate": "2016-11-12T20:53:22.846704",
+      "totalListen": 51303,
+      "totalLike": 47550,
+      "totalCmt": 5248,
+      "totalDownload": 4624,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/2/0/2035bd38c77af7c81fa7460472ea7ec7_1073961292.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1310265233.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCA9CC/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 246,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1109,
+          "nameSinger": " Tân Nhân",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/b/3be0722ca2f94cb81efabf7dfe8fc1cc_1508405678.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10218,
+      "name": "Đêm Thành Phố Đầy Sao",
+      "description": "Clone from ZWZ978CD",
+      "dateCreate": "2019-06-17T17:22:21.328806",
+      "totalListen": 56887,
+      "totalLike": 47580,
+      "totalCmt": 12975,
+      "totalDownload": 3663,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2014/d/1/d15d47d2adbb499a3de17e4d9cbec282_1073752141.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/b/2/b212bbca3e422cff79f64ba3005335a2_1364026427.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZ978CD/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 295,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1110,
+          "nameSinger": " Quang Dũng",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/a/ca8e77dd990dc92464fa910c3ddb7b6a_1510542443.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10219,
+      "name": "Bài Ca Người Lính",
+      "description": "Clone from ZWZB988D",
+      "dateCreate": "2018-09-29T11:10:31.535407",
+      "totalListen": 52203,
+      "totalLike": 56160,
+      "totalCmt": 11949,
+      "totalDownload": 10821,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/01/05/52831b1c0b37ccd3253203b82d28f27f_1073891341.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/c/cc5ce2cf1c938feb5f68ad379a9211ff_1303455959.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZB988D/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 243,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1111,
+          "nameSinger": " Cao Minh",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/9/695e65149d91252e87acdec6cc7031db_1514883971.jpg"
+        },
+        {
+          "singerId": 1112,
+          "nameSinger": " Hoài Nam",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/e/fe26d895721d161cc8c0759ce90c6e3c_1354867150.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10220,
+      "name": "Hành Khúc Ngày Và Đêm",
+      "description": "Clone from ZWZCDAC7",
+      "dateCreate": "2016-05-09T19:33:54.633425",
+      "totalListen": 34327,
+      "totalLike": 31088,
+      "totalCmt": 12346,
+      "totalDownload": 8430,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/0/f/0f32fbb64e7487226cfc5f2294e7a5f6_1073973831.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1311727833.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDAC7/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 256,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1098,
+          "nameSinger": " Anh Thơ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7eb0aa57ce0dc4df70cdff80b98c4474_1514280681.jpg"
+        },
+        {
+          "singerId": 1113,
+          "nameSinger": " Minh Quân",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/e/9eca996cef6dbdabf5a5bf04c295bfb6_1513238530.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10221,
+      "name": "Tình Ca Tây Bắc",
+      "description": "Clone from ZW786ZUZ",
+      "dateCreate": "2020-09-26T20:33:10.425938",
+      "totalListen": 13780,
+      "totalLike": 30421,
+      "totalCmt": 12130,
+      "totalDownload": 3466,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/09/18/43906eddba5ac4843daf5a6ae81ef904_1075778757.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1300258186.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW786ZUZ/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 408,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1114,
+          "nameSinger": " Trọng Tấn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/0/e/7/50e7fb48c9132b04b34423abff2aacd1.jpg"
+        },
+        {
+          "singerId": 1115,
+          "nameSinger": " Vi Hoa",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/9/29c8418d859f51f01dda32580ba3906b_1514955428.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10222,
+      "name": "Lá Xanh",
+      "description": "Clone from ZWZCEO8O",
+      "dateCreate": "2016-03-24T21:07:23.505646",
+      "totalListen": 35662,
+      "totalLike": 37717,
+      "totalCmt": 7348,
+      "totalDownload": 7898,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/7/0/b/b/70bb6b1726a065b61f8a3cbd824ffa05.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1311727739.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCEO8O/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 223,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1116,
+          "nameSinger": " Tam Ca Áo Trắng",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/b/3b145c5101c71f964b1d149ecfab5222_1510886467.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10223,
+      "name": "Tiểu Đoàn 307",
+      "description": "Clone from ZWZB986I",
+      "dateCreate": "2019-10-03T03:01:16.586348",
+      "totalListen": 77252,
+      "totalLike": 56298,
+      "totalCmt": 6597,
+      "totalDownload": 10890,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/6/a/6ac3b7edb7f591d45ae4668e1d7b4ff7_1073891297.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/c/cc5ce2cf1c938feb5f68ad379a9211ff_1303455808.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZB986I/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 237,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1111,
+          "nameSinger": " Cao Minh",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/9/695e65149d91252e87acdec6cc7031db_1514883971.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10224,
+      "name": "Tiến Về Sài Gòn",
+      "description": "Clone from ZW6UDCFD",
+      "dateCreate": "2016-09-01T13:54:14.451915",
+      "totalListen": 78161,
+      "totalLike": 37689,
+      "totalCmt": 13273,
+      "totalDownload": 9445,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2014/0/2/025c1e2d19da9b6063bc07dcba59410b_1074498685.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/3/73688444a73a76169d03b689a7e785cf_1359840143.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6UDCFD/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 227,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1117,
+          "nameSinger": " Tốp Ca Nam",
+          "thumbnail": "https://photo-zmp3.zadn.vn/artist_default_2.png"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10225,
+      "name": "Cuộc Đời Vẫn Đẹp Sao",
+      "description": "Clone from ZW6OWZA6",
+      "dateCreate": "2016-03-23T06:03:59.007985",
+      "totalListen": 29685,
+      "totalLike": 47554,
+      "totalCmt": 8048,
+      "totalDownload": 6046,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/0/8/1/4/081442a3e8224bf716dc88d85c8adf12.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/6/0/60e2c41606a20b826bdb901b93487f8d_1351683028.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6OWZA6/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 216,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1118,
+          "nameSinger": " Anh Bằng",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/e/4e2b0ef28ab651d398a1883c71dbfaf4_1371454061.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10226,
+      "name": "Đất Nước Trọn Niềm Vui",
+      "description": "Clone from ZW6OWZAB",
+      "dateCreate": "2019-07-29T10:56:55.515285",
+      "totalListen": 79364,
+      "totalLike": 54907,
+      "totalCmt": 8975,
+      "totalDownload": 10438,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/01/13/4f5cd064f9a9c0e933fad26301878517_1074386219.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/6/0/60e2c41606a20b826bdb901b93487f8d_1351683028.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6OWZAB/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 296,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1118,
+          "nameSinger": " Anh Bằng",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/e/4e2b0ef28ab651d398a1883c71dbfaf4_1371454061.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10227,
+      "name": "Rừng Xanh Vang Tiếng Ta Lư",
+      "description": "Clone from ZWZDBFFZ",
+      "dateCreate": "2018-02-23T17:25:49.811725",
+      "totalListen": 105658,
+      "totalLike": 46474,
+      "totalCmt": 8990,
+      "totalDownload": 8444,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/1/c/9/9/1c9922ac1aad598363e2be5f7b49d855.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1316571980.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZDBFFZ/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 247,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1119,
+          "nameSinger": " Lan Anh",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/f/ff9a9d864a4919efb0c3a0b74a30b1a7_1336296855.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10228,
+      "name": "Nonstop Liên Khúc Nhạc Đỏ (Remix)",
+      "description": "Clone from ZW79Z7EC",
+      "dateCreate": "2021-03-12T10:12:23.639077",
+      "totalListen": 78301,
+      "totalLike": 40104,
+      "totalCmt": 11664,
+      "totalDownload": 4721,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/e/5/e/5/e5e5d1e7236419ed3aea8c44bcd53b0d.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/b/7bd15657b5b3407a09aae2cd9adaca95_1486958436.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW79Z7EC/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 553,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1120,
+          "nameSinger": " Peto",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/e/8/2/ce821b6a37891dc1b5881b22e56016c2.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10229,
+      "name": "Bài Ca Không Quên",
+      "description": "Clone from ZWZB988C",
+      "dateCreate": "2020-04-02T11:45:48.70463",
+      "totalListen": 106769,
+      "totalLike": 57102,
+      "totalCmt": 8565,
+      "totalDownload": 3885,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/4/a/d/5/4ad5b53e30f38e54db7658d1284470cc.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/c/cc5ce2cf1c938feb5f68ad379a9211ff_1303455959.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZB988C/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 398,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1121,
+          "nameSinger": " Cẩm Vân",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/8/68d5535b971d558f594f10a5affd0a71_1285689260.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10230,
+      "name": "Hát Mãi Khúc Quân Hành",
+      "description": "Clone from ZW70EU9O",
+      "dateCreate": "2016-05-26T02:21:15.733532",
+      "totalListen": 68498,
+      "totalLike": 35956,
+      "totalCmt": 10806,
+      "totalDownload": 4038,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/b/e/3/7/be3718f0be290944d262ecba8f1dc78c.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/2/f22db630a8d1125e61720e1c96203299_1430213476.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW70EU9O/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 212,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1122,
+          "nameSinger": " FM Band",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/2/c2fcf657a1d8c708feadae0fe0145447_1469263510.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10231,
+      "name": "Trước Ngày Hội Bắn",
+      "description": "Clone from ZWZC9Z0U",
+      "dateCreate": "2021-04-29T12:26:17.527912",
+      "totalListen": 85330,
+      "totalLike": 52923,
+      "totalCmt": 9869,
+      "totalDownload": 8988,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2/a/9/c/2a9c2615c40c1aa7bd36eb657de8a03f.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1309102702.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZC9Z0U/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 355,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1104,
+          "nameSinger": " Việt Hoàn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/8/78c9e0acd78b9b0e78278ac6a583dec2_1514865475.jpg"
+        },
+        {
+          "singerId": 1123,
+          "nameSinger": " Thu Lan",
+          "thumbnail": "https://photo-zmp3.zadn.vn/artist_default_2.png"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10232,
+      "name": "Khúc Hát Người Đi Khai Hoang",
+      "description": "Clone from ZWZCW6BC",
+      "dateCreate": "2020-09-25T22:57:41.245773",
+      "totalListen": 73103,
+      "totalLike": 56988,
+      "totalCmt": 14845,
+      "totalDownload": 3120,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/4/6/1/4/4614e0a84b0799c1794064767f4d0f41.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1306735483.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCW6BC/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 342,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1124,
+          "nameSinger": " Quốc Đại",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/e/4/b/ee4b84993ee8e824d1d62178e185a768.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10233,
+      "name": "Hát Về Anh",
+      "description": "Clone from ZW70EU8E",
+      "dateCreate": "2014-11-04T13:47:50.271002",
+      "totalListen": 105548,
+      "totalLike": 39052,
+      "totalCmt": 14317,
+      "totalDownload": 5974,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/c/b/2/b/cb2b1abef0830d5e3198cd8cba5d7dbd.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/2/f22db630a8d1125e61720e1c96203299_1430213476.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW70EU8E/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 278,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1122,
+          "nameSinger": " FM Band",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/2/c2fcf657a1d8c708feadae0fe0145447_1469263510.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10234,
+      "name": "Qua Sông",
+      "description": "Clone from ZWZCW6BF",
+      "dateCreate": "2015-08-14T23:40:30.997667",
+      "totalListen": 52845,
+      "totalLike": 51219,
+      "totalCmt": 12086,
+      "totalDownload": 10738,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/8/7/87bb622ffb8c9281be8cfa9c0c05dcf8_1073927743.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1306735483.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCW6BF/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 206,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1100,
+          "nameSinger": " Cẩm Ly",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/5/3/e/a53e95551cdc52a921e3872b2c68cc30.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10235,
+      "name": "Chiếc Gậy Trường Sơn",
+      "description": "Clone from ZW60BIAD",
+      "dateCreate": "2017-06-21T23:26:21.718587",
+      "totalListen": 70501,
+      "totalLike": 34206,
+      "totalCmt": 9227,
+      "totalDownload": 8703,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/5/6/6/f/566f92c7a73008d947196dd6bdf65713.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/0/c024af750ce8dc8b97704e04cf04b900_1339576155.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW60BIAD/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 247,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1125,
+          "nameSinger": " Quang Hào",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/f/ef1f839edd4d19b1db3f8c88f12a80ed_1514961200.jpg"
+        },
+        {
+          "singerId": 1126,
+          "nameSinger": " Lê Anh Dũng",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/8/58f58a109f2bf4954a6e17762d51a8fb_1336306485.jpg"
+        },
+        {
+          "singerId": 1127,
+          "nameSinger": " Ngọc Ký",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/6/763b3063950976a6f2e3695d6aedf9a9_1512220880.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10236,
+      "name": "Đường Trường Sơn Xe Anh Qua",
+      "description": "Clone from ZWZB9890",
+      "dateCreate": "2014-05-25T18:34:21.749597",
+      "totalListen": 23412,
+      "totalLike": 33582,
+      "totalCmt": 7307,
+      "totalDownload": 1631,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/a/c/d/f/acdf589a5c9969cbb2ca872328e7ae63.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/6/8/68d5535b971d558f594f10a5affd0a71_1303456079.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZB9890/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 225,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1128,
+          "nameSinger": " ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/3/73688444a73a76169d03b689a7e785cf_1404904575.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10237,
+      "name": "Anh Ba Hưng",
+      "description": "Clone from ZWZB9870",
+      "dateCreate": "2016-09-03T03:35:28.827346",
+      "totalListen": 43993,
+      "totalLike": 47883,
+      "totalCmt": 11529,
+      "totalDownload": 6664,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/f/6/6/8/f66890893c7341aa900cf619778ec500.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/c/cc5ce2cf1c938feb5f68ad379a9211ff_1303455808.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZB9870/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 217,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1129,
+          "nameSinger": " Hồng Vân",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/b/3b82a82d86cb3a24b949a0ef9de54769_1369985114.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10238,
+      "name": "Tiến Quân Ca (Quốc Ca Việt Nam)",
+      "description": "Clone from ZW6ID6A7",
+      "dateCreate": "2020-04-11T15:08:58.975792",
+      "totalListen": 60310,
+      "totalLike": 48570,
+      "totalCmt": 7686,
+      "totalDownload": 1632,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/01/05/c966decafd093a0627f6a17ef7c85ef9_1074300455.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/3/73688444a73a76169d03b689a7e785cf_1404904575.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6ID6A7/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 65,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1128,
+          "nameSinger": " ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/3/73688444a73a76169d03b689a7e785cf_1404904575.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10239,
+      "name": "Hãy Yên Lòng Mẹ Ơi",
+      "description": "Clone from ZWZB987I",
+      "dateCreate": "2014-05-30T06:47:01.989809",
+      "totalListen": 35747,
+      "totalLike": 55763,
+      "totalCmt": 8102,
+      "totalDownload": 8286,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/5/7/57464593150fd11f44b70476164d9224_1073891313.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/c/cc5ce2cf1c938feb5f68ad379a9211ff_1303455808.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZB987I/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 297,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1130,
+          "nameSinger": " Đan Trường",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/7/2/f/072fc82083bbf30a171de034a71b3dbb.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10240,
+      "name": "Tình Cây Và Đất",
+      "description": "Clone from ZWZAOA79",
+      "dateCreate": "2018-08-21T22:52:44.053109",
+      "totalListen": 88624,
+      "totalLike": 55237,
+      "totalCmt": 12001,
+      "totalDownload": 2992,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/3/c/3c7c8589aae4b64823c9bbd5d05301ee_1073801721.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/4/240a4c78e1a7f871bc0a5357bfa46ddc_1290700812.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZAOA79/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 244,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10241,
+      "name": "Tự Nguyện",
+      "description": "Clone from ZW70EI0W",
+      "dateCreate": "2017-05-09T06:24:55.072498",
+      "totalListen": 59834,
+      "totalLike": 54357,
+      "totalCmt": 5702,
+      "totalDownload": 6838,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/1/5/15e31a5cd711e0141add86bee37f73ba_1075286146.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/0/7014824a73ba9e48258e1fdd40c56fdc_1429873510.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW70EI0W/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 252,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1039,
+          "nameSinger": " Noo Phước Thịnh",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/e/5/1/6e51f03056cab5cee5f075a820d4aeca.jpg"
+        },
+        {
+          "singerId": 1131,
+          "nameSinger": " Đức Tuấn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/1/31ed79a399aa06bcf60fe3ee847c1946_1514611898.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10242,
+      "name": "Em Đi Bộ Đội",
+      "description": "Clone from ZWZCW6B9",
+      "dateCreate": "2019-06-25T22:15:30.622052",
+      "totalListen": 104742,
+      "totalLike": 58463,
+      "totalCmt": 12562,
+      "totalDownload": 4636,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/e/d/ed27e56cd05eb6672bc4e8d447dacd84_1073927737.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1306735483.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCW6B9/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 241,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1100,
+          "nameSinger": " Cẩm Ly",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/5/3/e/a53e95551cdc52a921e3872b2c68cc30.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10243,
+      "name": "Xuân Chiến Khu",
+      "description": "Clone from ZW6ZF8BA",
+      "dateCreate": "2018-12-17T22:04:37.920032",
+      "totalListen": 53248,
+      "totalLike": 50126,
+      "totalCmt": 12693,
+      "totalDownload": 10479,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/1/4/2/8/142871926a29e424eb43991cda712aa6.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/1/7121883aadcdad2230a7609785a10f3b_1366107607.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6ZF8BA/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 287,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1101,
+          "nameSinger": " Trang Nhung",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/b/db03da3a9b7d3be8aac5db73d326eb3a_1513220604.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10244,
+      "name": "Câu Hò Bên Bờ Hiền Lương",
+      "description": "Clone from ZWZCDBWZ",
+      "dateCreate": "2019-06-03T05:05:24.354272",
+      "totalListen": 69904,
+      "totalLike": 43165,
+      "totalCmt": 8378,
+      "totalDownload": 4565,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/1/5/1545a7a848983fcf79a9774ec3230cf0_1073973925.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1311689511.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDBWZ/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 297,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10245,
+      "name": "Người Con Gái Sông La",
+      "description": "Clone from ZWZA8C7U",
+      "dateCreate": "2019-09-25T22:29:44.007107",
+      "totalListen": 49202,
+      "totalLike": 38598,
+      "totalCmt": 14616,
+      "totalDownload": 9549,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/10/16/674765c35dd64ae3aa95219d9229bb48_1073822708.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7f9fe2470133a654b08305cab4cae486_1292913563.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZA8C7U/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 324,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1098,
+          "nameSinger": " Anh Thơ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7eb0aa57ce0dc4df70cdff80b98c4474_1514280681.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10246,
+      "name": "Bài Ca Người Nữ Tự Vệ Sài Gòn",
+      "description": "Clone from ZWZCDAC0",
+      "dateCreate": "2019-06-11T03:32:07.086838",
+      "totalListen": 75026,
+      "totalLike": 47252,
+      "totalCmt": 5273,
+      "totalDownload": 6866,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/d/c/6/c/dc6c37811ff7bc56c9dd323ec32341e2.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1311671466.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDAC0/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 239,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1132,
+          "nameSinger": " Hương Giang",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/2/a20302f8cbd7d58b18dae00326364f7a_1336289436.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10247,
+      "name": "Nổi Lửa Lên Em",
+      "description": "Clone from ZWZCEOC9",
+      "dateCreate": "2016-09-10T16:48:39.891031",
+      "totalListen": 104088,
+      "totalLike": 44145,
+      "totalCmt": 7502,
+      "totalDownload": 5471,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/8/b/c/0/8bc082cc3520108619af3043026e36e8.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/3/73688444a73a76169d03b689a7e785cf_1359577010.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCEOC9/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 381,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1133,
+          "nameSinger": " Tạ Minh Tâm",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/b/0/b0e8a5bc658f9852f31e37edb18335d5_1511089573.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10248,
+      "name": "Lá Đỏ",
+      "description": "Clone from ZWZCDAUU",
+      "dateCreate": "2016-12-31T04:46:46.506544",
+      "totalListen": 85667,
+      "totalLike": 57719,
+      "totalCmt": 9532,
+      "totalDownload": 1792,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/7/1/7172ed8146af4f4fefd054c3317c7c79_1073973700.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1311656972.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDAUU/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 297,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1130,
+          "nameSinger": " Đan Trường",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/7/2/f/072fc82083bbf30a171de034a71b3dbb.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10249,
+      "name": "Tiếng Hát Từ Thành Phố Mang Tên Người",
+      "description": "Clone from ZW680Z6D",
+      "dateCreate": "2016-03-20T06:52:10.291714",
+      "totalListen": 50935,
+      "totalLike": 58278,
+      "totalCmt": 10936,
+      "totalDownload": 5724,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/4/6/5/8/46584a4a5f24b51bcb4c0948463a47e0.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/8/2/828f44d1f3b5f19b513c0b36df14e8ce_1378705776.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW680Z6D/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 314,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1134,
+          "nameSinger": " Đăng Dương",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/5/55bd36e42a5a702bfece8e494fef754c_1514875580.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10250,
+      "name": "Miền Trung Nhớ Bác",
+      "description": "Clone from ZW6UCWDE",
+      "dateCreate": "2016-08-23T19:45:41.557599",
+      "totalListen": 46581,
+      "totalLike": 39532,
+      "totalCmt": 7676,
+      "totalDownload": 7861,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/0/9/c/e/09ce683a5b0ee8fcfee6394bf9acddb3.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/3/73688444a73a76169d03b689a7e785cf_1359310012.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6UCWDE/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 262,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10251,
+      "name": "Cô Gái Sài Gòn Đi Tải Đạn",
+      "description": "Clone from ZWZCDAOF",
+      "dateCreate": "2014-04-26T12:53:06.789063",
+      "totalListen": 47525,
+      "totalLike": 31250,
+      "totalCmt": 8858,
+      "totalDownload": 9528,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/f/5/f53566f50c57d8b73d46e32f699c64ac_1073973695.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1311656972.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDAOF/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 245,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1100,
+          "nameSinger": " Cẩm Ly",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/5/3/e/a53e95551cdc52a921e3872b2c68cc30.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10252,
+      "name": "Năm Anh Em Trên Một Chiếc Xe Tăng",
+      "description": "Clone from ZWZB98UD",
+      "dateCreate": "2019-06-01T18:47:47.488145",
+      "totalListen": 12149,
+      "totalLike": 32622,
+      "totalCmt": 9990,
+      "totalDownload": 10680,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2014/9/a/9a24c51bb4f24b11c0cc3b1b41daca05_1073891277.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/3/73688444a73a76169d03b689a7e785cf_1361793086.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZB98UD/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 356,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1135,
+          "nameSinger": " Tốp Ca Nam Tổng Cục Chính Trị",
+          "thumbnail": "https://photo-zmp3.zadn.vn/artist_default_2.png"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10253,
+      "name": "Tình Ta Biển Bạc Đồng Xanh",
+      "description": "Clone from ZWZCDAFI",
+      "dateCreate": "2017-09-11T18:09:07.778465",
+      "totalListen": 38465,
+      "totalLike": 55162,
+      "totalCmt": 7019,
+      "totalDownload": 7096,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/b/b/b/f/bbbfa7ae6e411c3f3178cac98cdc4941.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1311728001.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDAFI/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 326,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        },
+        {
+          "singerId": 1136,
+          "nameSinger": " Trung Đức",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/a/9ada00ae2240cfde05f06518791f03e8_1514867939.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10254,
+      "name": "Bác Hồ Một Tình Yêu Bao La",
+      "description": "Clone from ZW6UA068",
+      "dateCreate": "2017-11-19T19:27:02.03634",
+      "totalListen": 17935,
+      "totalLike": 38534,
+      "totalCmt": 5116,
+      "totalDownload": 3101,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2014/c/7/c72a8fbc49c863e860aeb90cf21aad79_1074483176.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/0/70d4e8646a3c35ecbde3c56a5db76bf1_1358590808.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6UA068/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 266,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10255,
+      "name": "Câu Hò Bên Bờ Hiền Lương",
+      "description": "Clone from ZW67F8O7",
+      "dateCreate": "2015-10-19T21:46:01.466195",
+      "totalListen": 65224,
+      "totalLike": 34554,
+      "totalCmt": 12442,
+      "totalDownload": 10361,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/1/b/e/7/1be7367596d9786bd4c0615485a85f7d.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/b/a/ba4100a48c73280bc0ff256b64ec19c9_1378455103.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW67F8O7/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 297,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10256,
+      "name": "Địu Con Đi Nhà Trẻ",
+      "description": "Clone from ZWZCDEOB",
+      "dateCreate": "2017-08-23T13:26:54.104036",
+      "totalListen": 80444,
+      "totalLike": 47100,
+      "totalCmt": 7252,
+      "totalDownload": 3799,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/6/b/6b931995e9b95f5e76316ea95791399a_1073974715.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1311689816.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDEOB/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 322,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1098,
+          "nameSinger": " Anh Thơ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7eb0aa57ce0dc4df70cdff80b98c4474_1514280681.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10257,
+      "name": "Lời Ca Dâng Bác",
+      "description": "Clone from ZWZCA9CF",
+      "dateCreate": "2016-04-11T09:13:14.881847",
+      "totalListen": 15933,
+      "totalLike": 56643,
+      "totalCmt": 14735,
+      "totalDownload": 7952,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/f/c/fc4119663ef000bd7468ffa99454610d_1073961295.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1310265233.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCA9CF/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 261,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1137,
+          "nameSinger": " Tân Nhàn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/9/29d57a6bca5168d4a07f4a211e763da4_1513913845.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10258,
+      "name": "Một Đời Người Một Rừng Cây",
+      "description": "Clone from ZWZ978CA",
+      "dateCreate": "2019-11-12T22:19:42.205846",
+      "totalListen": 36234,
+      "totalLike": 44693,
+      "totalCmt": 13817,
+      "totalDownload": 10993,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/b/a/ba88f8f28a248c6718d5c7a08e16bbad_1073752138.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/b/2/b212bbca3e422cff79f64ba3005335a2_1364026427.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZ978CA/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 345,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1110,
+          "nameSinger": " Quang Dũng",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/a/ca8e77dd990dc92464fa910c3ddb7b6a_1510542443.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10259,
+      "name": "Quảng Bình Quê Ta Ơi",
+      "description": "Clone from ZWZDBEOB",
+      "dateCreate": "2016-10-06T14:04:19.581377",
+      "totalListen": 30452,
+      "totalLike": 34099,
+      "totalCmt": 14814,
+      "totalDownload": 4518,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/d/0/1/3/d0137359fa39c4622a246d66cb17a61a.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1316580685.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZDBEOB/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 391,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1105,
+          "nameSinger": " Phạm Phương Thảo",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/8/68c206e450ca0083aed4952ee29f8f12_1511941315.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10260,
+      "name": "Như Khúc Tình Ca",
+      "description": "Clone from ZWZCW6BE",
+      "dateCreate": "2017-11-06T07:09:26.199578",
+      "totalListen": 83609,
+      "totalLike": 44915,
+      "totalCmt": 12019,
+      "totalDownload": 1542,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/01/05/e24775183fdcad15435d95d00d55a0f4_1073927742.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1306735483.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCW6BE/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 195,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1124,
+          "nameSinger": " Quốc Đại",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/e/4/b/ee4b84993ee8e824d1d62178e185a768.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10261,
+      "name": "Thăm Bến Nhà Rồng",
+      "description": "Clone from ZWZA8DZ0",
+      "dateCreate": "2017-10-04T04:20:55.974196",
+      "totalListen": 32137,
+      "totalLike": 46243,
+      "totalCmt": 7070,
+      "totalDownload": 7807,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/01/05/ac1385dd99a33953c8ba17bef7b7a9a4_1073822928.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/8/6/86fee9a0d2bd29f9f1fefc3202d4e9e3_1378976639.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZA8DZ0/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 397,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1138,
+          "nameSinger": " NSƯT Thái Bảo",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/5/d5e0c443cd5e260c4317b29f297a9d3a_1514434728.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10262,
+      "name": "Một Đời Người Một Rừng Cây",
+      "description": "Clone from ZWZB988W",
+      "dateCreate": "2016-02-26T08:48:05.800512",
+      "totalListen": 17165,
+      "totalLike": 40355,
+      "totalCmt": 8909,
+      "totalDownload": 9896,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/4/e/b/f/4ebf5e08cc1071514721eac01818973c.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/c/cc5ce2cf1c938feb5f68ad379a9211ff_1303455808.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZB988W/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 341,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1139,
+          "nameSinger": " Minh Thuận",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/9/490d8de4ff5975b3a7d5f1ddc4729853_1510490359.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10263,
+      "name": "Gửi Em Ở Cuối Sông Hồng",
+      "description": "Clone from ZW6EC6ZA",
+      "dateCreate": "2014-05-28T01:14:07.320941",
+      "totalListen": 59731,
+      "totalLike": 43684,
+      "totalCmt": 6089,
+      "totalDownload": 7131,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/a/e/5/6/ae5622e4d70783d04f0c0ad9c2d71e0d.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/e/7eb419f84cc5b855de31d9ced86fca2e_1417335432.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6EC6ZA/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 242,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1140,
+          "nameSinger": " Quang Lý",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/6/c66cfcad76468c3e6ea7b364995570fc_1514880358.jpg"
+        },
+        {
+          "singerId": 1141,
+          "nameSinger": " NSƯT Quỳnh Liên",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/c/b/cb836035761dad32b3a29802c463aee8_1514962102.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10264,
+      "name": "Tình Ca",
+      "description": "Clone from ZWZAA6E0",
+      "dateCreate": "2017-03-27T01:38:25.56584",
+      "totalListen": 103130,
+      "totalLike": 35115,
+      "totalCmt": 13553,
+      "totalDownload": 8412,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/0/d/e/e/0dee256c43f2b77448a12cbce37123b2.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/4/e/4efdd2f969559e8b1c92e99f32ded48e_1294125674.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZAA6E0/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 256,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1142,
+          "nameSinger": " Quang Thọ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/1/d1ef83ba62f024186defcecf79095050_1508257230.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10265,
+      "name": "Màu Hoa Đỏ",
+      "description": "Clone from ZWZAA6EZ",
+      "dateCreate": "2020-10-04T10:37:46.271587",
+      "totalListen": 29689,
+      "totalLike": 42181,
+      "totalCmt": 12311,
+      "totalDownload": 5724,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/3/3/3335ad3786f130b4a2aff3b6f177bd9c_1073829477.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/4/e/4efdd2f969559e8b1c92e99f32ded48e_1294125674.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZAA6EZ/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 289,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1114,
+          "nameSinger": " Trọng Tấn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/0/e/7/50e7fb48c9132b04b34423abff2aacd1.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10266,
+      "name": "Trồng Cây Lại Nhớ Đến Người",
+      "description": "Clone from ZWZC8O9D",
+      "dateCreate": "2014-03-19T21:29:02.879496",
+      "totalListen": 50821,
+      "totalLike": 32190,
+      "totalCmt": 5185,
+      "totalDownload": 7564,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/0/f/3/9/0f39b76ba4d4f26a4cf251f3f78c2220.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/7/c7472b753e112afa7b647c8d52a98ab6_1379393896.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZC8O9D/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 260,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1143,
+          "nameSinger": " NSND Thanh Hoa",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/4/146641436b4354c63fbfbe8bab8dc748_1514345721.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10267,
+      "name": "Giai Điệu Tổ Quốc",
+      "description": "Clone from ZW80AWI9",
+      "dateCreate": "2018-07-11T08:52:38.264311",
+      "totalListen": 57250,
+      "totalLike": 32496,
+      "totalCmt": 7607,
+      "totalDownload": 1963,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/08/24/45c24ce3c3c107b50a41b004a40b65d4_1076318617.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/1/9/190fd147f047f0dbefdd51d2624932f9_1500362003.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW80AWI9/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 254,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1144,
+          "nameSinger": " Nhóm Nam Việt",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/3/f301ea0db5dde29b5b5db4ff6953014b_1438241674.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10268,
+      "name": "Biết Ơn Chị Võ Thị Sáu",
+      "description": "Clone from ZWZCDCIE",
+      "dateCreate": "2018-06-21T08:17:20.421874",
+      "totalListen": 38666,
+      "totalLike": 43795,
+      "totalCmt": 13917,
+      "totalDownload": 9048,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/4/2/42029bfab375698fc9a527642ef639b8_1073974174.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1311655387.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDCIE/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 282,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1103,
+          "nameSinger": " Thanh Thúy",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/c/6cc8bf6c15b0735c8827adde23e6dd5a_1514609072.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10269,
+      "name": "Tự Tình Lý Cây Bông",
+      "description": "Clone from ZW78WCFF",
+      "dateCreate": "2014-06-27T20:50:46.721533",
+      "totalListen": 34574,
+      "totalLike": 35041,
+      "totalCmt": 9840,
+      "totalDownload": 7912,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/12/23/070c66d162ee61ec6a990d1b75770fac_1075764351.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/b/cbecd5f60bf778eb4288aa8c24c6af54_1475657826.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW78WCFF/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 266,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1145,
+          "nameSinger": " Ngọc Hân",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/d/3dd6c018a5d56538d8c7d6343fc952d7_1511156311.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10270,
+      "name": "Đêm Đò Đưa Nhớ Bác",
+      "description": "Clone from ZW78ZZW6",
+      "dateCreate": "2014-05-09T01:36:18.976721",
+      "totalListen": 77378,
+      "totalLike": 58082,
+      "totalCmt": 7227,
+      "totalDownload": 4730,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/d/d/5/7/dd572a55ef7c5de87cec66fbefdb0e9d.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1311689472.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW78ZZW6/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 372,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1146,
+          "nameSinger": " Thanh Thanh Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/c/4cdb7f1c048e3496a658652597397c52_1515650636.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10271,
+      "name": "Mừng Tuổi Mẹ",
+      "description": "Clone from ZWZCDE7O",
+      "dateCreate": "2014-01-02T14:20:35.161058",
+      "totalListen": 98285,
+      "totalLike": 35529,
+      "totalCmt": 8574,
+      "totalDownload": 6311,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/f/8/4/c/f84c613add4d175765d4f7ec34cb14f7.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1311689884.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDE7O/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 312,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10272,
+      "name": "Gửi Em Ở Cuối Sông Hồng",
+      "description": "Clone from ZWZC9Z8D",
+      "dateCreate": "2014-07-19T00:33:08.429565",
+      "totalListen": 96770,
+      "totalLike": 40759,
+      "totalCmt": 6698,
+      "totalDownload": 10495,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/01/05/b4dbe01760af8ec53ae29fc9f25daee1_1073956109.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/1/e12f6e150d081437bc6ba7761416df89_1379583345.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZC9Z8D/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 256,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1114,
+          "nameSinger": " Trọng Tấn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/0/e/7/50e7fb48c9132b04b34423abff2aacd1.jpg"
+        },
+        {
+          "singerId": 1143,
+          "nameSinger": " NSND Thanh Hoa",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/4/146641436b4354c63fbfbe8bab8dc748_1514345721.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10273,
+      "name": "Người Về Thăm Quê",
+      "description": "Clone from ZW6UA070",
+      "dateCreate": "2019-02-20T00:37:25.414462",
+      "totalListen": 27022,
+      "totalLike": 49681,
+      "totalCmt": 9408,
+      "totalDownload": 1101,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/e/a/eaa6a438ba1cdb1cab8c0a867073367c_1074483184.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/0/70d4e8646a3c35ecbde3c56a5db76bf1_1358590808.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6UA070/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 277,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10274,
+      "name": "Thăm Bến Nhà Rồng",
+      "description": "Clone from ZW6UA07I",
+      "dateCreate": "2020-05-21T08:38:18.15928",
+      "totalListen": 98229,
+      "totalLike": 45742,
+      "totalCmt": 5048,
+      "totalDownload": 4257,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/d/4/d47f3f537e87a0a724f490d07bdaf414_1074483185.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/0/70d4e8646a3c35ecbde3c56a5db76bf1_1358590808.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6UA07I/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 261,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10275,
+      "name": "Giữa Mạc Tư Khoa Nghe Câu Hò Ví Dặm",
+      "description": "Clone from ZWZCA968",
+      "dateCreate": "2014-01-14T00:38:31.002639",
+      "totalListen": 39754,
+      "totalLike": 30652,
+      "totalCmt": 9560,
+      "totalDownload": 2474,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/4/4/5/9/44597bac6bb92426a5f6af47ac3cf8df.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1310314861.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCA968/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 288,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [],
+      "singers": [
+        {
+          "singerId": 1099,
+          "nameSinger": " Thu Hiền",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/a/1afe8ce3e529df4711283217e011693e_1508294821.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10276,
+      "name": "Bài Ca Thống Nhất",
+      "description": "Clone from ZWZC8OA0",
+      "dateCreate": "2020-05-20T07:52:43.538426",
+      "totalListen": 90867,
+      "totalLike": 31406,
+      "totalCmt": 14955,
+      "totalDownload": 6902,
+      "lyric": "",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1309100522.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZC8OA0/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 351,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1098,
+          "nameSinger": " Anh Thơ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7eb0aa57ce0dc4df70cdff80b98c4474_1514280681.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10277,
+      "name": "Việt Nam Quê Hương Tôi",
+      "description": "Clone from ZWZE6UAW",
+      "dateCreate": "2019-10-17T20:27:20.501263",
+      "totalListen": 15287,
+      "totalLike": 54133,
+      "totalCmt": 10310,
+      "totalDownload": 8597,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/9/7/977269a3369aa3f5f88ec5d657b5660b_1074074658.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/8/e863a57370772108d8d8cbdf522963d4_1322460746.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZE6UAW/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 265,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1103,
+          "nameSinger": " Thanh Thúy",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/c/6cc8bf6c15b0735c8827adde23e6dd5a_1514609072.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10278,
+      "name": "Tấm Áo Chiến Sĩ Mẹ Vá Năm Xưa",
+      "description": "Clone from ZWZCEWZW",
+      "dateCreate": "2019-01-24T22:55:25.002955",
+      "totalListen": 99776,
+      "totalLike": 32347,
+      "totalCmt": 7579,
+      "totalDownload": 6401,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/09/18/e39a671b2aec2faea77c593a3f6f1c45_1073975762.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-zmp3.zadn.vn/audio_default.png",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCEWZW/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 263,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1114,
+          "nameSinger": " Trọng Tấn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/5/0/e/7/50e7fb48c9132b04b34423abff2aacd1.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10279,
+      "name": "Hãy Yên Lòng Mẹ Ơi",
+      "description": "Clone from ZWZCDFIF",
+      "dateCreate": "2020-03-22T06:30:04.295307",
+      "totalListen": 60937,
+      "totalLike": 32499,
+      "totalCmt": 9111,
+      "totalDownload": 2413,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/e/5/7/f/e57fbd3ae440d3b0491a34f6d67fdfc1.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1311690334.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCDFIF/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 304,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1147,
+          "nameSinger": " Việt Quang",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/c/6c8f03b285a8f6f7b03ecb7540198926_1511403178.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10280,
+      "name": "Tiếng Chày Trên Sóc Bom Bo",
+      "description": "Clone from ZWZE6UAC",
+      "dateCreate": "2018-10-01T22:33:22.061716",
+      "totalListen": 65937,
+      "totalLike": 31174,
+      "totalCmt": 11459,
+      "totalDownload": 1925,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/01/05/3d03d4aab8c338c979df255bfbadccb8_1074074668.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/8/e863a57370772108d8d8cbdf522963d4_1322460746.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZE6UAC/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 224,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1103,
+          "nameSinger": " Thanh Thúy",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/c/6cc8bf6c15b0735c8827adde23e6dd5a_1514609072.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10281,
+      "name": "Năm Anh Em Trên Một Chiếc Xe Tăng (DJ)",
+      "description": "Clone from ZW6D7W67",
+      "dateCreate": "2016-08-10T17:42:31.651624",
+      "totalListen": 63698,
+      "totalLike": 44986,
+      "totalCmt": 11831,
+      "totalDownload": 10803,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/4/6/466e7c525ce6ce84a7dd3ff1052d30b4_1075061223.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/3/6/365827bfb4dc6a8eedae87269a810331_1419415995.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6D7W67/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 295,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1108,
+          "nameSinger": " Lương Gia Huy",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_png/avatars/f/6/f68fb832808c6ddaca296dd40a86ef64_1498547009.png"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10282,
+      "name": "Chiếc Gậy Trường Sơn",
+      "description": "Clone from ZWZCAACD",
+      "dateCreate": "2020-04-15T04:18:02.19151",
+      "totalListen": 27660,
+      "totalLike": 30577,
+      "totalCmt": 7217,
+      "totalDownload": 6949,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2014/8/8/88404685b5f7e1fb96bcf59c646ab845_1073961549.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1310314513.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCAACD/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 195,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1136,
+          "nameSinger": " Trung Đức",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/a/9ada00ae2240cfde05f06518791f03e8_1514867939.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10283,
+      "name": "Hương Thầm",
+      "description": "Clone from ZWZCW6BB",
+      "dateCreate": "2018-11-08T16:03:22.957299",
+      "totalListen": 63910,
+      "totalLike": 37134,
+      "totalCmt": 13415,
+      "totalDownload": 10600,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2014/5/2/52426097fc0722eff30832db348f46e5_1073927739.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1306735483.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCW6BB/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 289,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1100,
+          "nameSinger": " Cẩm Ly",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/5/3/e/a53e95551cdc52a921e3872b2c68cc30.jpg"
+        },
+        {
+          "singerId": 1124,
+          "nameSinger": " Quốc Đại",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/e/e/4/b/ee4b84993ee8e824d1d62178e185a768.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10284,
+      "name": "Rặng Trâm Bầu",
+      "description": "Clone from ZWZA8C6C",
+      "dateCreate": "2019-07-08T04:10:12.868355",
+      "totalListen": 96381,
+      "totalLike": 45624,
+      "totalCmt": 9271,
+      "totalDownload": 5164,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/10/16/596b5018276f50b1c7cd74d384676d9b_1073822700.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7f9fe2470133a654b08305cab4cae486_1292913563.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZA8C6C/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 343,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1098,
+          "nameSinger": " Anh Thơ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7eb0aa57ce0dc4df70cdff80b98c4474_1514280681.jpg"
+        },
+        {
+          "singerId": 1104,
+          "nameSinger": " Việt Hoàn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/8/78c9e0acd78b9b0e78278ac6a583dec2_1514865475.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10285,
+      "name": "Em Đi Qua Cầu Cây",
+      "description": "Clone from ZWZBAE9F",
+      "dateCreate": "2016-03-29T06:53:59.528434",
+      "totalListen": 17151,
+      "totalLike": 42704,
+      "totalCmt": 9375,
+      "totalDownload": 6311,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2/b/e/f/2befeed6d9ffbfcc7bea036c9ced3059.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/6/f/6fcc316073b3fb561e21570ea8b664cb_1303960747.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZBAE9F/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 251,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1148,
+          "nameSinger": " Mắt Ngọc",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/2/2/3/c/223c4dafcaab2205d54af400fa63a774.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10286,
+      "name": "Dấu Chân Phía Trước",
+      "description": "Clone from ZWZBFZUB",
+      "dateCreate": "2015-08-08T13:37:01.502882",
+      "totalListen": 96744,
+      "totalLike": 55248,
+      "totalCmt": 13432,
+      "totalDownload": 10497,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/1/b/c/e/1bce258de886c8bf6b347b409a67522b.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/1/1/11af38da321eaae0620b1792728db03a_1305616670.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZBFZUB/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 339,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1101,
+          "nameSinger": " Trang Nhung",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/b/db03da3a9b7d3be8aac5db73d326eb3a_1513220604.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10287,
+      "name": "Chào Em Cô Gái Lam Hồng",
+      "description": "Clone from ZWZA8AU7",
+      "dateCreate": "2017-12-08T17:32:22.846691",
+      "totalListen": 64240,
+      "totalLike": 49927,
+      "totalCmt": 9357,
+      "totalDownload": 1661,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/e/5/e54af1c0322ccd8825521f0b775ff323_1073822151.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/e/9/e9f46f968c158fdbda86a394b1cf9903_1292829815.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZA8AU7/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 248,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1136,
+          "nameSinger": " Trung Đức",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/9/a/9ada00ae2240cfde05f06518791f03e8_1514867939.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10288,
+      "name": "Bài Ca May Áo",
+      "description": "Clone from ZWZCW6BU",
+      "dateCreate": "2016-01-20T22:43:28.099174",
+      "totalListen": 31758,
+      "totalLike": 51706,
+      "totalCmt": 12248,
+      "totalDownload": 6636,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/8/5/852e37c1d575bdc56e620db0897c5e8e_1073927732.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/2/7/2760735506a5bc187a35f6c829fae70d_1306735483.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCW6BU/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 224,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1100,
+          "nameSinger": " Cẩm Ly",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/5/3/e/a53e95551cdc52a921e3872b2c68cc30.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10289,
+      "name": "Khúc Hát Ru Của Người Mẹ Trẻ",
+      "description": "Clone from ZWZC9UFZ",
+      "dateCreate": "2015-07-22T05:27:11.01529",
+      "totalListen": 40919,
+      "totalLike": 55186,
+      "totalCmt": 13873,
+      "totalDownload": 4084,
+      "lyric": "",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1309102562.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZC9UFZ/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 224,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1105,
+          "nameSinger": " Phạm Phương Thảo",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/6/8/68c206e450ca0083aed4952ee29f8f12_1511941315.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10290,
+      "name": "Đường Trường Sơn Xe Anh Qua",
+      "description": "Clone from ZWZDBFEO",
+      "dateCreate": "2020-02-06T15:25:37.0199",
+      "totalListen": 55550,
+      "totalLike": 40959,
+      "totalCmt": 7364,
+      "totalDownload": 10035,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/4/3/3/1/4331cb5c2ac6d5c6c438a5262b96b1b6.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1316571980.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZDBFEO/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 229,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1119,
+          "nameSinger": " Lan Anh",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/f/f/ff9a9d864a4919efb0c3a0b74a30b1a7_1336296855.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10291,
+      "name": "Đường Cày Đảm Đang",
+      "description": "Clone from ZWZDBECD",
+      "dateCreate": "2019-04-08T08:47:57.060967",
+      "totalListen": 51644,
+      "totalLike": 47279,
+      "totalCmt": 13439,
+      "totalDownload": 3239,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/7/4/7484f5cb9f01db646e381131aa759660_1074032205.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1316572391.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZDBECD/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 192,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1098,
+          "nameSinger": " Anh Thơ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7eb0aa57ce0dc4df70cdff80b98c4474_1514280681.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10292,
+      "name": "Gửi Em Ở Cuối Sông Hồng",
+      "description": "Clone from ZWZABW6C",
+      "dateCreate": "2020-06-07T14:42:34.283375",
+      "totalListen": 55441,
+      "totalLike": 47449,
+      "totalCmt": 5338,
+      "totalDownload": 3094,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/1/e/3/9/1e39a139af1af061f7deb1bdae29bf93.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1294371209.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZABW6C/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 262,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1098,
+          "nameSinger": " Anh Thơ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/e/7eb0aa57ce0dc4df70cdff80b98c4474_1514280681.jpg"
+        },
+        {
+          "singerId": 1104,
+          "nameSinger": " Việt Hoàn",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/8/78c9e0acd78b9b0e78278ac6a583dec2_1514865475.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10293,
+      "name": "Năm Anh Em Trên Một Chiếc Xe Tăng (Live Hòa Âm Ánh Sáng 2016)",
+      "description": "Clone from ZW7OBC6D",
+      "dateCreate": "2020-07-08T05:45:01.021428",
+      "totalListen": 86282,
+      "totalLike": 57121,
+      "totalCmt": 11312,
+      "totalDownload": 3294,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/01/05/3b1fe30f3f6d6cb9f922c5b315b1af9e_1075473389.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/6/7/677b31dd3dcb3665656fa3d11299b166_1456112379.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW7OBC6D/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 259,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1149,
+          "nameSinger": " JustaTee",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/3/a/6/d/3a6de9f068f10fcee2c50cdf9772ebaa.jpg"
+        },
+        {
+          "singerId": 1150,
+          "nameSinger": " BigDaddy",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/9/093d6d4b7a707ff6fddf0602eade9ebc_1466697417.jpg"
+        },
+        {
+          "singerId": 1151,
+          "nameSinger": " DJ Tít",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/8/0/801d2762a6d1f18590c9cf098de85700_1426559543.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10294,
+      "name": "5 Anh Em Trên Một Chiếc Xe Tăng",
+      "description": "Clone from ZWZCUOB8",
+      "dateCreate": "2020-05-01T23:28:18.657513",
+      "totalListen": 105777,
+      "totalLike": 42298,
+      "totalCmt": 12845,
+      "totalDownload": 1210,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/6/0/60e96941ee8f849395293cc0d4a262c3_1073935160.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/6/8/68d5535b971d558f594f10a5affd0a71_1307514218.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZCUOB8/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 218,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1108,
+          "nameSinger": " Lương Gia Huy",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_png/avatars/f/6/f68fb832808c6ddaca296dd40a86ef64_1498547009.png"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10295,
+      "name": "Khát Vọng Tuổi Trẻ",
+      "description": "Clone from ZWZBWW08",
+      "dateCreate": "2017-08-07T20:04:38.056279",
+      "totalListen": 19847,
+      "totalLike": 43736,
+      "totalCmt": 13203,
+      "totalDownload": 7864,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/0/5/0559e9ae8046aec2f901f5cf90dc7a28_1073861000.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/a/2/a2197f5d1fa7f55a63908780e490d5dc_1300633548.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZBWW08/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 223,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1128,
+          "nameSinger": " ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/3/73688444a73a76169d03b689a7e785cf_1404904575.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10296,
+      "name": "Nổi Lửa Lên Em",
+      "description": "Clone from ZW6ZF88O",
+      "dateCreate": "2019-02-15T19:07:34.471903",
+      "totalListen": 20296,
+      "totalLike": 39524,
+      "totalCmt": 8079,
+      "totalDownload": 5649,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2017/01/05/798ea0b4802a56bba3beca38cc7b49d8_1074571267.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/7/1/7121883aadcdad2230a7609785a10f3b_1366107607.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZW6ZF88O/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 255,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1101,
+          "nameSinger": " Trang Nhung",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/d/b/db03da3a9b7d3be8aac5db73d326eb3a_1513220604.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10297,
+      "name": "Bài Ca Phụ Nữ Việt Nam",
+      "description": "Clone from ZWZAOA6Z",
+      "dateCreate": "2020-03-11T23:11:51.254328",
+      "totalListen": 73296,
+      "totalLike": 37501,
+      "totalCmt": 5031,
+      "totalDownload": 5574,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/e/c/a/5/eca534bac43b0b62377a7da85a66028d.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/5/c52c3b85a8ec189c1905c9f4022f1034_1290700478.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZAOA6Z/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 157,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1152,
+          "nameSinger": " Phương Nga",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/0/b/c/9/0bc9ac167032eb89f03b778ae085394e.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10298,
+      "name": "Thanh Niên Làm Theo Lời Bác",
+      "description": "Clone from ZWZBWIDE",
+      "dateCreate": "2014-05-27T13:30:53.180124",
+      "totalListen": 23199,
+      "totalLike": 59784,
+      "totalCmt": 11401,
+      "totalDownload": 5261,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/2015/1/7/17cc9e0c3361000651a8afe129e00597_1073860958.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/3/b/3b64488ed81a350aa585d4de5fc5bdbb_1300633203.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZBWIDE/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 200,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1128,
+          "nameSinger": " ",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/7/3/73688444a73a76169d03b689a7e785cf_1404904575.jpg"
+        }
+      ],
+      "composers": []
+    },
+    {
+      "id": 10299,
+      "name": "Lời Bác Dặn Trước Lúc Đi Xa",
+      "description": "Clone from ZWZC8O9B",
+      "dateCreate": "2019-02-11T14:52:21.769866",
+      "totalListen": 61836,
+      "totalLike": 50106,
+      "totalCmt": 9153,
+      "totalDownload": 6757,
+      "lyric": "https://static-zmp3.zadn.vn/lyrics/e/6/a/e/e6aec1c2119ef5fd2c2f4abefd93b51b.lrc",
+      "songVip": false,
+      "country": "Việt Nam",
+      "isChecked": false,
+      "isOfficial": true,
+      "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/c/7/c7472b753e112afa7b647c8d52a98ab6_1379393896.jpg",
+      "fileMusic128": "http://api.mp3.zing.vn/api/streaming/audio/ZWZC8O9B/128",
+      "fileMusic320": "",
+      "fileMusicLossless": "",
+      "duration": 349,
+      "types": [
+        {
+          "value": 100,
+          "id": 12,
+          "name": "Nhạc cách mạng",
+          "description": null,
+          "dateCreate": "0001-01-01T00:00:00",
+          "thumbnail": null,
+          "owner": null
+        }
+      ],
+      "tags": [],
+      "owners": [
+        {
+          "ownerId": 3,
+          "nameOwner": "vip user",
+          "thumbnail": "https://pixy.org/download/4685453/"
+        }
+      ],
+      "singers": [
+        {
+          "singerId": 1143,
+          "nameSinger": " NSND Thanh Hoa",
+          "thumbnail": "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/4/146641436b4354c63fbfbe8bab8dc748_1514345721.jpg"
+        }
+      ],
+      "composers": []
+    }
+  ]
+}
